@@ -10,6 +10,7 @@
 - git merge <branchDuProbleme>
 - git push
 
+## Ne as oublier le resolve #idIssue dans le commit !!!!!!
 
 
 
