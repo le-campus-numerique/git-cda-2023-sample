@@ -1,0 +1,11 @@
+.cdv__emilie {
+    width: 50%;
+    margin : 1.5rem auto;
+    padding: 2rem;
+    background-color: aliceblue;
+    border-radius: 20px;
+    box-shadow: 10px 2px 19px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 2px 19px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 2px 19px 0px rgba(0,0,0,0.75);
+
+} 
