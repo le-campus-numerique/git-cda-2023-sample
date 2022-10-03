@@ -38,6 +38,10 @@ button {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.hero-subtitle p {
+    font-size: 18px;
+}
+
 .hero-title h1:not(strong) {
     color: #FF4488;
 }
